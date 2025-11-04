@@ -1,0 +1,1 @@
+This project contains a home page (index.html) with links to a few recipes for different dishes.
